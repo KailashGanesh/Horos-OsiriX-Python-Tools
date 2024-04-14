@@ -1,7 +1,7 @@
 # Horos/OsiriX Python Tools
 
 <img src="./images/logo.webp" alt="logo of repository">
-<center> <small>Logo created by chatGPT</small> </center>  
+<p align="center"><sub>Logo created by ChatGPT</sub></p>
 
 </br>
 
